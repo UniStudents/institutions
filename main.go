@@ -32,7 +32,7 @@ func main() {
 		row.Alias = ""
 		row.Domain = webInstitution.Domains[0]
 		row.ImageUrl = webInstitution.ImageUrl
-		row.countryIsoCode = webInstitution.AlphaTwoCode
+		row.CountryIsoCode = webInstitution.AlphaTwoCode
 		row.IsSupported = false
 
 		transposedInstitutions = append(transposedInstitutions, row)

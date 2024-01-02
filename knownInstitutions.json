@@ -1,186 +1,232 @@
 {
   "ASPETE": {
-    "id": "2744255e-b186-463a-af17-209e7c1dc5d6",
-    "name": "Πανεπιστήμιο Θεσσαλίας",
-    "internationalName": "University of Thessaly",
-    "alias": "UTH",
-    "domain": "uth.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uth-logo.png"
+    "id": "2a7fe12c-dc88-45da-852a-8c1d57384b1d",
+    "name": "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης",
+    "internationalName": "Aristotle University of Thessaloniki",
+    "alias": "AUTH",
+    "domain": "auth.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/auth-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
   "Agricultural University of Athens": {
-    "id": "b35f6984-5b68-450c-b79e-e8cd343efe83",
-    "name": "Πανεπιστήμιο Μακεδονίας",
-    "internationalName": "University of Macedonia",
-    "alias": "UOM",
-    "domain": "uom.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uom-logo.png"
+    "id": "b0b0e4cf-4934-40ce-889a-224e3d999ff8",
+    "name": "Χαροκόπειο Πανεπιστήμιο",
+    "internationalName": "Χαροκόπειο Πανεπιστήμιο",
+    "alias": "HUA",
+    "domain": "hua.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/hua-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
   "Aristotle University of Thessaloniki": {
-    "id": "b44d7987-0aa5-4e5f-978c-62cb58ff757b",
-    "name": "Πανεπιστήμιο Πατρών",
-    "internationalName": "University of Patras",
-    "alias": "UPATRAS",
-    "domain": "upatras.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/upatras-logo.png"
+    "id": "e81c45da-2e5c-4cce-8c4f-c05ed19cf1ee",
+    "name": "Διεθνές Πανεπιστήμιο της Ελλάδος",
+    "internationalName": "International Hellenic University",
+    "alias": "IHU",
+    "domain": "ihu.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/ihu-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
   "Athens University of Economics and Business": {
-    "id": "ad0aeae7-ae01-4e6c-88aa-b9a1f3a5ec89",
-    "name": "Πρώην ΤΕΙ Δυτικής Ελλάδας (Πατρών) ",
-    "internationalName": "TEIWEST | University of Patras",
-    "alias": "TEIWEST",
-    "domain": "upatras.gr-teiwest",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/teiwest-logo.png"
+    "id": "2d535316-b959-4c58-8e18-02f6dbe91bcd",
+    "name": "Ελληνικό Μεσογειακό Πανεπιστήμιο",
+    "internationalName": "Hellenic Mediterranean University",
+    "alias": "HMU",
+    "domain": "hmu.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/hmu-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
   "Democritus University of Thrace": {
-    "id": "0f724bce-2c2f-4375-a89b-97d1e5b42a6d",
-    "name": "Δημοκτρίτειο Πανεπιστήμιο Θράκης",
-    "internationalName": "Democritus University of Thrace",
-    "alias": "DUTH",
-    "domain": "duth.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/duth-logo.png"
+    "id": "b0b0e4cf-4934-40ce-889a-224e3d999ff8",
+    "name": "Χαροκόπειο Πανεπιστήμιο",
+    "internationalName": "Χαροκόπειο Πανεπιστήμιο",
+    "alias": "HUA",
+    "domain": "hua.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/hua-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
   "Hellenic Mediterranean University": {
-    "id": "e190b6b6-5e8a-4bc9-92ca-1351a47a3a65",
-    "name": "Πρώην ΤΕΙ Δυτικής Ελλάδας (Πελοποννήσου) ",
-    "internationalName": "TEIWEST | University of the Peloponnese",
-    "alias": "TEIWEST",
-    "domain": "uop.gr-teiwest",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/teiwest-logo.png"
-  },
-  "IONIAN University": {
-    "id": "64237409-271e-416f-9519-5150963c5b7c",
-    "name": "Πολυτεχνείο Κρήτης",
-    "internationalName": "Technical University of Crete",
-    "alias": "TUC",
-    "domain": "tuc.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/tuc-logo.png"
-  },
-  "International Hellenic University": {
-    "id": "8aff5623-8c00-4234-8cb1-5d3e55ce341f",
-    "name": "Πανεπιστήμιο Δυτικής Αττικής",
-    "internationalName": "University of West Attica",
-    "alias": "UNIWA",
-    "domain": "uniwa.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uniwa-logo.png"
-  },
-  "National Technical University of Athens": {
-    "id": "ad0aeae7-ae01-4e6c-88aa-b9a1f3a5ec89",
-    "name": "Πρώην ΤΕΙ Δυτικής Ελλάδας (Πατρών) ",
-    "internationalName": "TEIWEST | University of Patras",
-    "alias": "TEIWEST",
-    "domain": "upatras.gr-teiwest",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/teiwest-logo.png"
-  },
-  "National and Kapodistrian University of Athens ": {
-    "id": "92943760-55f4-494f-a507-1710f779e008",
-    "name": "Πανεπιστήμιο Πελοποννήσου",
-    "internationalName": "University of the Peloponnese",
-    "alias": "UOP",
-    "domain": "uop.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uop-logo.png"
-  },
-  "Panteion University": {
-    "id": "8aff5623-8c00-4234-8cb1-5d3e55ce341f",
-    "name": "Πανεπιστήμιο Δυτικής Αττικής",
-    "internationalName": "University of West Attica",
-    "alias": "UNIWA",
-    "domain": "uniwa.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uniwa-logo.png"
-  },
-  "Technical University of Crete": {
-    "id": "934fd955-3a63-4daf-9458-14e8f78d472d",
-    "name": "Πανεπιστήμιο Κρήτης",
-    "internationalName": "University of Crete",
-    "alias": "UoC",
-    "domain": "uoc.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uoc-logo.png"
-  },
-  "University of Aegean": {
-    "id": "8aff5623-8c00-4234-8cb1-5d3e55ce341f",
-    "name": "Πανεπιστήμιο Δυτικής Αττικής",
-    "internationalName": "University of West Attica",
-    "alias": "UNIWA",
-    "domain": "uniwa.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uniwa-logo.png"
-  },
-  "University of Crete": {
     "id": "b35f6984-5b68-450c-b79e-e8cd343efe83",
     "name": "Πανεπιστήμιο Μακεδονίας",
     "internationalName": "University of Macedonia",
     "alias": "UOM",
     "domain": "uom.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uom-logo.png"
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uom-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
-  "University of Ioannina": {
-    "id": "46d63031-72b1-4f6b-95de-63315ca3e81f",
-    "name": "Πανεπιστήμιο Ιωαννίνων",
-    "internationalName": "University of Ioannina",
-    "alias": "UOI",
-    "domain": "uoi.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uoi-logo.png"
+  "IONIAN University": {
+    "id": "8aff5623-8c00-4234-8cb1-5d3e55ce341f",
+    "name": "Πανεπιστήμιο Δυτικής Αττικής",
+    "internationalName": "University of West Attica",
+    "alias": "UNIWA",
+    "domain": "uniwa.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uniwa-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
-  "University of Macedonia": {
-    "id": "0f724bce-2c2f-4375-a89b-97d1e5b42a6d",
-    "name": "Δημοκτρίτειο Πανεπιστήμιο Θράκης",
-    "internationalName": "Democritus University of Thrace",
-    "alias": "DUTH",
-    "domain": "duth.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/duth-logo.png"
-  },
-  "University of Patras": {
-    "id": "46d63031-72b1-4f6b-95de-63315ca3e81f",
-    "name": "Πανεπιστήμιο Ιωαννίνων",
-    "internationalName": "University of Ioannina",
-    "alias": "UOI",
-    "domain": "uoi.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uoi-logo.png"
-  },
-  "University of Piraeus": {
-    "id": "cf1173af-e977-424e-a5c2-96251ca4aa16",
-    "name": "Πανεπιστήμιο Δυτικής Μακεδονίας",
-    "internationalName": "University of Western Macedonia",
-    "alias": "UOWM",
-    "domain": "uowm.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uowm-logo.png"
-  },
-  "University of Thessaly": {
+  "International Hellenic University": {
     "id": "ad357e29-4307-45a9-bfda-bcd2c9342abe",
     "name": "Ιόνιο Πανεπιστήμιο",
     "internationalName": "IONIAN University",
     "alias": "IONIO",
     "domain": "ionio.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/ionio-logo.png"
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/ionio-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "National Technical University of Athens": {
+    "id": "b35f6984-5b68-450c-b79e-e8cd343efe83",
+    "name": "Πανεπιστήμιο Μακεδονίας",
+    "internationalName": "University of Macedonia",
+    "alias": "UOM",
+    "domain": "uom.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uom-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "National and Kapodistrian University of Athens ": {
+    "id": "ad0aeae7-ae01-4e6c-88aa-b9a1f3a5ec89",
+    "name": "Πρώην ΤΕΙ Δυτικής Ελλάδας (Πατρών) ",
+    "internationalName": "TEIWEST | University of Patras",
+    "alias": "TEIWEST",
+    "domain": "upatras.gr-teiwest",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/teiwest-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "Panteion University": {
+    "id": "b0b0e4cf-4934-40ce-889a-224e3d999ff8",
+    "name": "Χαροκόπειο Πανεπιστήμιο",
+    "internationalName": "Χαροκόπειο Πανεπιστήμιο",
+    "alias": "HUA",
+    "domain": "hua.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/hua-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "Technical University of Crete": {
+    "id": "18cd24d0-36d0-404c-9c56-1c8460155f23",
+    "name": "Πανεπιστήμιο Αιγαίου",
+    "internationalName": "University of Aegean",
+    "alias": "AEGEAN",
+    "domain": "aegean.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/aegean-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of Aegean": {
+    "id": "b35f6984-5b68-450c-b79e-e8cd343efe83",
+    "name": "Πανεπιστήμιο Μακεδονίας",
+    "internationalName": "University of Macedonia",
+    "alias": "UOM",
+    "domain": "uom.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uom-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of Crete": {
+    "id": "18cd24d0-36d0-404c-9c56-1c8460155f23",
+    "name": "Πανεπιστήμιο Αιγαίου",
+    "internationalName": "University of Aegean",
+    "alias": "AEGEAN",
+    "domain": "aegean.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/aegean-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of Ioannina": {
+    "id": "b0b0e4cf-4934-40ce-889a-224e3d999ff8",
+    "name": "Χαροκόπειο Πανεπιστήμιο",
+    "internationalName": "Χαροκόπειο Πανεπιστήμιο",
+    "alias": "HUA",
+    "domain": "hua.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/hua-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of Macedonia": {
+    "id": "81993065-1866-40b2-8d9c-8a5ffa19ddd0",
+    "name": "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών",
+    "internationalName": "National and Kapodistrian University of Athens ",
+    "alias": "UOA",
+    "domain": "uoa.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uoa-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of Patras": {
+    "id": "ad357e29-4307-45a9-bfda-bcd2c9342abe",
+    "name": "Ιόνιο Πανεπιστήμιο",
+    "internationalName": "IONIAN University",
+    "alias": "IONIO",
+    "domain": "ionio.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/ionio-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of Piraeus": {
+    "id": "d599eeb8-8fdf-4b74-9ec0-17474c915314",
+    "name": "Εθνικό Μετσόβιο Πολυτεχνείο",
+    "internationalName": "National Technical University of Athens",
+    "alias": "NTUA",
+    "domain": "ntua.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/ntua-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of Thessaly": {
+    "id": "b0b0e4cf-4934-40ce-889a-224e3d999ff8",
+    "name": "Χαροκόπειο Πανεπιστήμιο",
+    "internationalName": "Χαροκόπειο Πανεπιστήμιο",
+    "alias": "HUA",
+    "domain": "hua.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/hua-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
   "University of West Attica": {
-    "id": "92943760-55f4-494f-a507-1710f779e008",
-    "name": "Πανεπιστήμιο Πελοποννήσου",
-    "internationalName": "University of the Peloponnese",
-    "alias": "UOP",
-    "domain": "uop.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uop-logo.png"
-  },
-  "University of Western Macedonia": {
-    "id": "934fd955-3a63-4daf-9458-14e8f78d472d",
-    "name": "Πανεπιστήμιο Κρήτης",
-    "internationalName": "University of Crete",
-    "alias": "UoC",
-    "domain": "uoc.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uoc-logo.png"
-  },
-  "University of the Peloponnese": {
     "id": "0f724bce-2c2f-4375-a89b-97d1e5b42a6d",
     "name": "Δημοκτρίτειο Πανεπιστήμιο Θράκης",
     "internationalName": "Democritus University of Thrace",
     "alias": "DUTH",
     "domain": "duth.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/duth-logo.png"
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/duth-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of Western Macedonia": {
+    "id": "ce96f002-de07-425b-8924-285027222cf0",
+    "name": "Οικονομικό Πανεπιστήμιο Αθηνών",
+    "internationalName": "Athens University of Economics and Business",
+    "alias": "AUEB",
+    "domain": "aueb.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/aueb-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
+  },
+  "University of the Peloponnese": {
+    "id": "b0b0e4cf-4934-40ce-889a-224e3d999ff8",
+    "name": "Χαροκόπειο Πανεπιστήμιο",
+    "internationalName": "Χαροκόπειο Πανεπιστήμιο",
+    "alias": "HUA",
+    "domain": "hua.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/hua-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   },
   "Χαροκόπειο Πανεπιστήμιο": {
-    "id": "ad36aa5a-62ab-4bbb-9e23-36af1520b979",
-    "name": "Πανεπιστήμιο Πειραιώς",
-    "internationalName": "University of Piraeus",
-    "alias": "UNIPI",
-    "domain": "unipi.gr",
-    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/unipi-logo.png"
+    "id": "81993065-1866-40b2-8d9c-8a5ffa19ddd0",
+    "name": "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών",
+    "internationalName": "National and Kapodistrian University of Athens ",
+    "alias": "UOA",
+    "domain": "uoa.gr",
+    "imageUrl": "https://cdn.unistudents.gr/assets/institutions/gr/uoa-logo.png",
+    "countryIsoCode": "GR",
+    "isSupported": true
   }
 }

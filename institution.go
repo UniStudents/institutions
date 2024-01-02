@@ -17,7 +17,7 @@ type DatabaseInstitution struct {
 	Alias             string `db:"alias" json:"alias"`
 	Domain            string `db:"domain" json:"domain"`
 	ImageUrl          string `db:"imageUrl" json:"imageUrl"`
-	countryIsoCode    string `db:"countryIsoCode" json:"countryIsoCode"`
+	CountryIsoCode    string `db:"countryIsoCode" json:"countryIsoCode"`
 
 	// optional fields
 	IsSupported bool `db:"isSupported" json:"isSupported"`
